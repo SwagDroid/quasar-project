@@ -14,6 +14,15 @@
     "categories": {
       "auth": {
         "quasarproject7a70b014": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d8gnx81412oda",
+          "type": "cicd"
+        }
+      },
+      "api": {
+        "quasarproject": {}
       }
     }
   }
